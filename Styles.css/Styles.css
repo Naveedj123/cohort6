@@ -10,3 +10,9 @@ li {
     color: crimson;
     font-size: 20px;
 }
+
+h2{
+    color: maroon;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
