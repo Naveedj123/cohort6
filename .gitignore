@@ -1,3 +1,4 @@
 todo.txt
 .DS_Store
 *.txt
+# used to ignore certain files in git
